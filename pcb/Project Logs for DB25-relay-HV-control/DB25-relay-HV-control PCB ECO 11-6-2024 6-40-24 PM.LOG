@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=J1 Old Footprint=SAMTEC_TSW-108-07-G-S New Footprint=SAMTEC_TSW-104-07-G-S
+Change Component Comment : Designator=J1 Old Comment=TSW-108-07-G-S New Comment=TSW-104-07-G-S
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SAMTEC_TSW-108-07-G-S"; UniqueID = "\PVLWRTOF" ("\PVLWRTOF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "altium_native_batch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(SAMTEC_TSW-104-07-G-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "altium_native_batch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ7_01 Pin=J7-01
+Added Pin To Net: NetName=NetJ7_01 Pin=U13-2
+Added Net: Name=NetJ7_01
+Added Pin To Net: NetName=NetJ7_02 Pin=J7-02
+Added Pin To Net: NetName=NetJ7_02 Pin=U14-2
+Added Net: Name=NetJ7_02
+Added Pin To Net: NetName=NetJ7_03 Pin=J7-03
+Added Pin To Net: NetName=NetJ7_03 Pin=U15-2
+Added Net: Name=NetJ7_03
+Added Pin To Net: NetName=NetJ7_04 Pin=J7-04
+Added Pin To Net: NetName=NetJ7_04 Pin=U16-2
+Added Net: Name=NetJ7_04
+Added Member To Class: ClassName=DB25-relay-HV-control Member=Component J7 TSW-104-07-G-S

@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=J6 Old Footprint=SAMTEC_TSW-104-07-G-S New Footprint=SAMTEC_TSW-108-07-G-S
+Added Component: Designator=U21(SIP_3570-1331_COM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3570-1331-051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Comus"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U22(SIP_3570-1331_COM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3570-1331-051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Comus"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U23(SIP_3570-1331_COM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3570-1331-051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Comus"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U24(SIP_3570-1331_COM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3570-1331-051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Comus"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ6_05 Pin=J6-05
+Added Pin To Net: NetName=NetJ6_06 Pin=J6-06
+Added Pin To Net: NetName=NetJ6_07 Pin=J6-07
+Added Pin To Net: NetName=NetJ6_08 Pin=J6-08
+Added Pin To Net: NetName=NetJ4_2 Pin=U21-1
+Added Pin To Net: NetName=NetJ2_05 Pin=U21-2
+Added Pin To Net: NetName=GND Pin=U21-3
+Added Pin To Net: NetName=NetJ3_4 Pin=U21-4
+Added Pin To Net: NetName=NetJ4_2 Pin=U22-1
+Added Pin To Net: NetName=NetJ2_06 Pin=U22-2
+Added Pin To Net: NetName=GND Pin=U22-3
+Added Pin To Net: NetName=NetJ3_3 Pin=U22-4
+Added Pin To Net: NetName=NetJ4_2 Pin=U23-1
+Added Pin To Net: NetName=NetJ2_07 Pin=U23-2
+Added Pin To Net: NetName=GND Pin=U23-3
+Added Pin To Net: NetName=NetJ3_2 Pin=U23-4
+Added Pin To Net: NetName=NetJ4_2 Pin=U24-1
+Added Pin To Net: NetName=NetJ2_08 Pin=U24-2
+Added Pin To Net: NetName=GND Pin=U24-3
+Added Pin To Net: NetName=NetJ3_1 Pin=U24-4
+Added Member To Class: ClassName=DB25-relay-HV-control Member=Component U21 3570-1331-051
+Added Member To Class: ClassName=DB25-relay-HV-control Member=Component U22 3570-1331-051
+Added Member To Class: ClassName=DB25-relay-HV-control Member=Component U23 3570-1331-051
+Added Member To Class: ClassName=DB25-relay-HV-control Member=Component U24 3570-1331-051
