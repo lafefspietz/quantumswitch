@@ -1,0 +1,44 @@
+Change Component Footprint: Designator=J5 Old Footprint=SAMTEC_TSW-106-07-G-S New Footprint=SAMTEC_TSW-108-07-G-S-topside
+Change Component Footprint: Designator=J9 Old Footprint=TSW-102-07-G-S-topside New Footprint=SAMTEC_TSW-108-07-G-S-topside
+Added Component: Designator=J10(SAMTEC_TSW-104-07-G-S-topside)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "altium_native_batch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J11(SAMTEC_TSW-104-07-G-S-topside)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "altium_native_batch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12(SAMTEC_TSW-108-07-G-S-topside)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TSW-108-07-G-S/Samtec+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-108-07-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSW-108-07-G-S/Samtec+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ5_07 Pin=J5-07
+Added Pin To Net: NetName=NetJ5_08 Pin=J5-08
+Added Pin To Net: NetName=NetJ9_01 Pin=J9-01
+Added Pin To Net: NetName=NetJ9_02 Pin=J9-02
+Added Pin To Net: NetName=NetJ9_03 Pin=J9-03
+Added Pin To Net: NetName=NetJ9_04 Pin=J9-04
+Added Pin To Net: NetName=NetJ9_04 Pin=J10-01
+Added Pin To Net: NetName=NetJ9_03 Pin=J10-02
+Added Pin To Net: NetName=NetJ9_02 Pin=J10-03
+Added Pin To Net: NetName=NetJ9_01 Pin=J10-04
+Added Pin To Net: NetName=NetJ11_01 Pin=J11-01
+Added Pin To Net: NetName=NetJ11_02 Pin=J11-02
+Added Pin To Net: NetName=NetJ11_03 Pin=J11-03
+Added Pin To Net: NetName=NetJ11_04 Pin=J11-04
+Added Pin To Net: NetName=NetJ11_04 Pin=J12-05
+Added Pin To Net: NetName=NetJ11_03 Pin=J12-06
+Added Pin To Net: NetName=NetJ11_02 Pin=J12-07
+Added Pin To Net: NetName=NetJ11_01 Pin=J12-08
+Added Member To Class: ClassName=arduino-to-headers-shield Member=Component J10 TSW-104-07-G-S-topside
+Added Member To Class: ClassName=arduino-to-headers-shield Member=Component J11 TSW-104-07-G-S-topside
+Added Member To Class: ClassName=arduino-to-headers-shield Member=Component J12 TSW-108-07-G-S-topside

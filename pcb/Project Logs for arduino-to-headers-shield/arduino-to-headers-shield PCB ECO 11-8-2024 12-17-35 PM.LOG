@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetJ5_01 Pin=J6-05
+Removed Pin From Net: NetName=NetJ5_02 Pin=J6-06
+Removed Pin From Net: NetName=NetJ5_03 Pin=J6-07
+Removed Pin From Net: NetName=NetJ5_04 Pin=J6-08
+Removed Pin From Net: NetName=NetJ5_05 Pin=J7-04
+Removed Pin From Net: NetName=GND Pin=J9-2
+Removed Pin From Net: NetName=NetJ5_05 Pin=R1-1
+Removed Pin From Net: NetName=NetJ5_06 Pin=R2-2
+Change Footprint: Footprint Not Found SAMTEC_TSW-108-07-G-S-topside
+Change Footprint: Footprint Not Found SAMTEC_TSW-108-07-G-S-topside
+Change Component Comment : Designator=J9 Old Comment=TSW-102-07-G-S New Comment=TSW-108-07-G-S-topside
+Change Component Comment : Designator=J5 Old Comment=TSW-106-07-G-S New Comment=TSW-108-07-G-S-topside
+Change component parameters: Designator = "J5" ("J5"); Footprint = "SAMTEC_TSW-106-07-G-S"; UniqueID = "\WSUTAGRO" ("\WSUTAGRO")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TSW-108-07-G-S/Samtec+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSW-108-07-G-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSW-108-07-G-S/Samtec+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9" ("J9"); Footprint = "TSW-102-07-G-S-topside"; UniqueID = "\OUTNVYDB" ("\OUTNVYDB")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TSW-108-07-G-S/Samtec+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSW-108-07-G-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSW-108-07-G-S/Samtec+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SAMTEC_TSW-104-07-G-S-topside
+Add Component: Footprint Not Found SAMTEC_TSW-104-07-G-S-topside
+Add Component: Footprint Not Found SAMTEC_TSW-108-07-G-S-topside
+Added Pin To Net: NetName=NetJ5_06 Pin=J6-03
+Added Pin To Net: NetName=NetJ5_05 Pin=J6-04
+Added Pin To Net: NetName=NetJ5_04 Pin=J6-05
+Added Pin To Net: NetName=NetJ5_03 Pin=J6-06
+Added Pin To Net: NetName=NetJ5_02 Pin=J6-07
+Added Pin To Net: NetName=NetJ5_01 Pin=J6-08
+Change Net Color : Old Net Color=Lime New Net Color=Red
+Change Net Color : Old Net Color=Lime New Net Color=Red
+Change Net Color : Old Net Color=Lime New Net Color=Red
+Change Net Color : Old Net Color=Lime New Net Color=Red
+Added Pin To Net: NetName=NetJ5_07 Pin=J6-02
+Added Net: Name=NetJ5_07
+Added Pin To Net: NetName=NetJ5_08 Pin=J6-01
+Added Net: Name=NetJ5_08
+Added Pin To Net: NetName=NetJ7_04 Pin=J7-04
+Added Pin To Net: NetName=NetJ7_04 Pin=R1-1
+Added Net: Name=NetJ7_04
+Added Net: Name=NetJ9_01
+Added Net: Name=NetJ9_02
+Added Net: Name=NetJ9_03
+Added Net: Name=NetJ9_04
+Added Net: Name=NetJ11_01
+Added Net: Name=NetJ11_02
+Added Net: Name=NetJ11_03
+Added Net: Name=NetJ11_04
+Add Class Member: Failed to add class member : Component J10 TSW-104-07-G-S-topside
+Add Class Member: Failed to add class member : Component J11 TSW-104-07-G-S-topside
+Add Class Member: Failed to add class member : Component J12 TSW-108-07-G-S-topside

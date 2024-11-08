@@ -1,0 +1,52 @@
+Change Component Footprint: Designator=J7 Old Footprint=SAMTEC_TSW-104-07-G-S-topside New Footprint=SAMTEC_TSW-105-07-G-S
+Change Component Comment : Designator=J7 Old Comment=TSW-104-07-G-S-topside New Comment=TSW-105-07-G-S
+Change component parameters: Designator = "J7" ("J7"); Footprint = "SAMTEC_TSW-104-07-G-S-topside"; UniqueID = "\CDIUHQCC" ("\CDIUHQCC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSW-105-07-G-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(FP-RLR07-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Conformal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Metal Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Lead, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "0.001%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Military, Moisture Resistant, Weldable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "640µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Length"; Value = "38.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "MIL-PRF-39017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "39449004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8533210090, 8533210090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Diameter"; Value = "50.8µm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ7_04 Pin=J12-04
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetJ7_05 Pin=J7-05
+Added Pin To Net: NetName=NetJ7_05 Pin=J12-03
+Added Pin To Net: NetName=NetJ7_05 Pin=R3-1
+Added Net: Name=NetJ7_05
+Added Pin To Net: NetName=NetJ9_05 Pin=J9-05
+Added Pin To Net: NetName=NetJ9_05 Pin=R2-2
+Added Net: Name=NetJ9_05
+Added Member To Class: ClassName=arduino-to-headers-shield Member=Component R3 100k
