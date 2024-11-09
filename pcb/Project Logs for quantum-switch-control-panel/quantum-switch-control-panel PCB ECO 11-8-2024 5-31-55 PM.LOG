@@ -1,0 +1,123 @@
+Change Component Footprint: Designator=J1 Old Footprint=SAMTEC_TSW-104-07-G-S New Footprint=SAMTEC_TSW-105-07-G-S
+Change Component Comment : Designator=J1 Old Comment=TSW-104-07-G-S New Comment=TSW-105-07-G-S
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SAMTEC_TSW-104-07-G-S"; UniqueID = "\MRISNMAL" ("\MRISNMAL")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSW-105-07-G-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=NEO10(adafruit-1559-neopixel-flora)
+Added Component: Designator=NEO11(adafruit-1559-neopixel-flora)
+Added Component: Designator=NEO12(adafruit-1559-neopixel-flora)
+Added Component: Designator=NEO13(adafruit-1559-neopixel-flora)
+Added Component: Designator=NEO14(adafruit-1559-neopixel-flora)
+Added Component: Designator=R10(thruhole resistor)
+Add component (AddParameter): Name = "R"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(thruhole resistor)
+Add component (AddParameter): Name = "R"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(thruhole resistor)
+Add component (AddParameter): Name = "R"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(thruhole resistor)
+Add component (AddParameter): Name = "R"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(thruhole resistor)
+Add component (AddParameter): Name = "R"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW10(SW_TL59AF100Q_EWI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL59AF100Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SW11(SW_TL59AF100Q_EWI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL59AF100Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SW12(SW_TL59AF100Q_EWI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL59AF100Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SW13(SW_TL59AF100Q_EWI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL59AF100Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=SW14(SW_TL59AF100Q_EWI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL59AF100Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_01 Pin=NEO10-5V
+Added Pin To Net: NetName=GND Pin=NEO10-GND
+Added Pin To Net: NetName=NetJ1_01 Pin=NEO11-5V
+Added Pin To Net: NetName=GND Pin=NEO11-GND
+Added Pin To Net: NetName=NetJ1_01 Pin=NEO12-5V
+Added Pin To Net: NetName=GND Pin=NEO12-GND
+Added Pin To Net: NetName=NetJ1_01 Pin=NEO13-5V
+Added Pin To Net: NetName=GND Pin=NEO13-GND
+Added Pin To Net: NetName=NetJ1_01 Pin=NEO14-5V
+Added Pin To Net: NetName=GND Pin=NEO14-GND
+Added Pin To Net: NetName=NetJ1_01 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetJ1_01 Pin=SW10-2
+Added Pin To Net: NetName=NetJ1_05 Pin=J1-05
+Added Pin To Net: NetName=NetJ1_05 Pin=SW10-1
+Added Pin To Net: NetName=NetJ1_05 Pin=SW11-1
+Added Pin To Net: NetName=NetJ1_05 Pin=SW12-1
+Added Pin To Net: NetName=NetJ1_05 Pin=SW13-1
+Added Pin To Net: NetName=NetJ1_05 Pin=SW14-1
+Added Net: Name=NetJ1_05
+Added Pin To Net: NetName=NetNEO9_OUT Pin=NEO9-OUT
+Added Pin To Net: NetName=NetNEO9_OUT Pin=NEO14-IN
+Added Net: Name=NetNEO9_OUT
+Added Pin To Net: NetName=NetNEO10_IN Pin=NEO10-IN
+Added Pin To Net: NetName=NetNEO10_IN Pin=NEO11-OUT
+Added Net: Name=NetNEO10_IN
+Added Pin To Net: NetName=NetNEO11_IN Pin=NEO11-IN
+Added Pin To Net: NetName=NetNEO11_IN Pin=NEO12-OUT
+Added Net: Name=NetNEO11_IN
+Added Pin To Net: NetName=NetNEO12_IN Pin=NEO12-IN
+Added Pin To Net: NetName=NetNEO12_IN Pin=NEO13-OUT
+Added Net: Name=NetNEO12_IN
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-2
+Added Pin To Net: NetName=NetR10_1 Pin=SW11-2
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-2
+Added Pin To Net: NetName=NetR11_1 Pin=SW12-2
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=R13-2
+Added Pin To Net: NetName=NetR12_1 Pin=SW13-2
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R14-2
+Added Pin To Net: NetName=NetR13_1 Pin=SW14-2
+Added Net: Name=NetR13_1
+Change Class Name : Old Net Name=9button-9neopixel New Net Name=quantum-switch-control-panel
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component NEO10 adafruit-1559-neopixel-flora
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component NEO11 adafruit-1559-neopixel-flora
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component NEO12 adafruit-1559-neopixel-flora
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component NEO13 adafruit-1559-neopixel-flora
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component NEO14 adafruit-1559-neopixel-flora
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component R10 Resistor
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component R11 Resistor
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component R12 Resistor
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component R13 Resistor
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component R14 Resistor
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component SW10 TL59AF100Q
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component SW11 TL59AF100Q
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component SW12 TL59AF100Q
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component SW13 TL59AF100Q
+Added Member To Class: ClassName=quantum-switch-control-panel Member=Component SW14 TL59AF100Q
